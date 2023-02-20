@@ -114,14 +114,6 @@
   body.menu-toggled > .meta-link > span {
     color: rgb(30, 30, 30);
   }
-  
-  #source-link {
-    bottom: 60px;
-  }
-  
-  #source-link > i {
-    color: rgb(94, 106, 210);
-  }
    
   .meta-link {
     align-items: center;
@@ -138,7 +130,7 @@
     padding: 10px 20px;
     position: fixed;
     text-decoration: none;
-    transition: background-color 400ms, border-color 400ms;
+    transition: background-color 100ms, border-color 100ms;
     z-index: 10000;
   }
   
